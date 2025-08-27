@@ -20,6 +20,7 @@
         <entry key="file://$PROJECT_DIR$/RIntro_Smith.rmd">
           <value>
             <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$PROJECT_DIR$/RIntro_Smith.html" />
               <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$" />
             </RMarkdownRenderProfile>
           </value>
